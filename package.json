@@ -2,11 +2,11 @@
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://anasamer97.github.io/Todo",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy": "npm run build",
+    "predeploy": "npm run dev",
    "deploy": "gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
