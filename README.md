@@ -16,11 +16,3 @@ This is a simple Todo List application built with React. The application allows 
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-
-
-
-## Acknowledgements
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
